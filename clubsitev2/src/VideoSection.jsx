@@ -385,7 +385,7 @@ const VideoSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-violet-400 to-purple-500 rounded-2xl blur-xl opacity-30 scale-110"></div>
               <img
-                src="/Rishad Nur (1).jpg"
+                src="/public/win.jpg"
                 alt="BRUDF Community Moments"
                 className="relative w-full h-64 object-cover rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-300"
               />
@@ -414,7 +414,7 @@ const VideoSection = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://youtube.com/yourchannel"
+                href="https://www.youtube.com/@BRUDF"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-6 py-3 bg-red-600 hover:bg-red-700 text-white font-semibold rounded-full shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300"
@@ -430,7 +430,7 @@ const VideoSection = () => {
               </a>
 
               <a
-                href="https://facebook.com/yourpage"
+                href="https://www.facebook.com/brudf.2016"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-6 py-3 bg-violet-600 hover:bg-violet-700 text-white font-semibold rounded-full shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300"
