@@ -4,7 +4,7 @@ const executiveMembers = [
   {
     name: "Md. Rishad Nur",
     designation: "President",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/Rishad Nur (1).jpg",
     email: "rishad.nur007@gmail.com",
     quote: "Leading with passion, debating with purpose",
@@ -13,8 +13,8 @@ const executiveMembers = [
   {
     name: "Imratul Jannat Usha",
     designation: "General Secretary",
-    session: "2023-24",
-    photo: "/public/Rishad Nur (1).jpg",
+    session: "2024-25",
+    photo: "/public/usa.jpeg",
     email: "secretary@brudf.edu",
     quote: "Organizing excellence, fostering growth",
     isTopExecutive: true,
@@ -22,7 +22,7 @@ const executiveMembers = [
   {
     name: "MD. Robayed Hasan",
     designation: "Vice President",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/robayed.jpg",
     email: "vp@brudf.edu",
     quote: "Supporting vision, enabling success",
@@ -31,7 +31,7 @@ const executiveMembers = [
   {
     name: "Md. Masudur Rahaman",
     designation: "Vice President",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/masud.jpg",
     email: "treasurer@brudf.edu",
     quote: "Managing resources, building futures",
@@ -40,7 +40,7 @@ const executiveMembers = [
   {
     name: "Galiba Ibnat",
     designation: "Joint General secretary ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/galiba.jpg",
     email: "joint.secretary@brudf.edu",
     quote: "Coordinating efforts, achieving goals",
@@ -49,7 +49,7 @@ const executiveMembers = [
   {
     name: "Abul Khayer jayed",
     designation: "Organizing secretary ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/galiba.jpg",
     email: "joint.secretary@brudf.edu",
     quote: "Coordinating efforts, achieving goals",
@@ -58,7 +58,7 @@ const executiveMembers = [
   {
     name: "Hasan Ali",
     designation: "Public Relations Officer",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/hasan.jpg",
     email: "pro@brudf.edu",
     quote: "Connecting communities, spreading awareness",
@@ -68,7 +68,7 @@ const executiveMembers = [
   {
     name: "Maheda Taiyeba ",
     designation: "Office Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/maheda.jpg",
     email: "organizing@brudf.edu",
     quote: "Bringing events to life with precision",
@@ -77,7 +77,7 @@ const executiveMembers = [
   {
     name: "Khadimul Sarder",
     designation: "IT Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/khadim.jpg",
     email: "publication@brudf.edu",
     quote: "Crafting stories, sharing achievements",
@@ -86,7 +86,7 @@ const executiveMembers = [
   {
     name: "Pritam Dev Nath",
     designation: "Publicity Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/pritom.jpg",
     email: "training@brudf.edu",
     quote: "Developing skills, nurturing talent",
@@ -95,7 +95,7 @@ const executiveMembers = [
   {
     name: "Md.Al amin Sayem",
     designation: "Campus affair secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/sayem.jpg",
     email: "events@brudf.edu",
     quote: "Creating memorable experiences",
@@ -104,7 +104,7 @@ const executiveMembers = [
   {
     name: "MD Mustansir Muyaj ",
     designation: "Human Welfare Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/muaj.jpg",
     email: "media@brudf.edu",
     quote: "Broadcasting excellence to the world",
@@ -113,7 +113,7 @@ const executiveMembers = [
   {
     name: "Mst.Sadia Tahsin",
     designation: "Treasure",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/sadia.jpg",
     email: "research@brudf.edu",
     quote: "Exploring ideas, discovering solutions",
@@ -122,7 +122,7 @@ const executiveMembers = [
   {
     name: "Ismail Hossen",
     designation: "Assistant IT Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/ismail.jpg",
     email: "workshop@brudf.edu",
     quote: "Sharing knowledge, building confidence",
@@ -131,7 +131,7 @@ const executiveMembers = [
   {
     name: "Most Morium Akhter",
     designation: "Cultural secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/morium.jpg",
     email: "social@brudf.edu",
     quote: "Connecting digitally, engaging globally",
@@ -140,7 +140,7 @@ const executiveMembers = [
   {
     name: "Jarin Tasnim Suchi",
     designation: "Assistant IT Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/suchi.jpg",
     email: "tech@brudf.edu",
     quote: "Innovating solutions for modern debates",
@@ -149,7 +149,7 @@ const executiveMembers = [
   {
     name: "MD.Juwel Haque",
     designation: "Debate Research Secretary ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/juwel.jpg",
     email: "alumni@brudf.edu",
     quote: "Bridging generations of debaters",
@@ -158,7 +158,7 @@ const executiveMembers = [
   {
     name: "Asif Mahmud",
     designation: "Campus affiars secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/asif.jpg",
     email: "finance@brudf.edu",
     quote: "Supporting financial transparency",
@@ -167,7 +167,7 @@ const executiveMembers = [
   {
     name: "Shamima Akter",
     designation: "Women Affairs Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/shimu.jpg",
     email: "protocol@brudf.edu",
     quote: "Ensuring smooth operations",
@@ -176,7 +176,7 @@ const executiveMembers = [
   {
     name: "Md. Rihan Khan Sumon ",
     designation: "Assistant Debate Research Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/rihan.jpg",
     email: "documentation@brudf.edu",
     quote: "Preserving memories, recording history",
@@ -185,7 +185,7 @@ const executiveMembers = [
   {
     name: "Sree Vopen Chandro Paul",
     designation: "Assistant Publicity Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/vopen.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -194,7 +194,7 @@ const executiveMembers = [
   {
     name: "Md. Mahfuzur Rahman Siam",
     designation: "Cultural Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/siam.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -203,7 +203,7 @@ const executiveMembers = [
   {
     name: "Kayeem Uddin",
     designation: "Assistant Publicity Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/kayem.jpeg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -212,7 +212,7 @@ const executiveMembers = [
   {
     name: "Minnatul  Khatun",
     designation: "Women Affairs Secretary ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/minnatul.jpeg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -221,7 +221,7 @@ const executiveMembers = [
   {
     name: "Shuva karmokar",
     designation: "Assistant Debate Research Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/karmokar.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -230,7 +230,7 @@ const executiveMembers = [
   {
     name: "Md. Ahsan Habib Rocky",
     designation: "Members of English Wing ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/Ahsan.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -239,7 +239,7 @@ const executiveMembers = [
   {
     name: "Md. Shakib Hossen",
     designation: "Assistant workshop and reading circle secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/shakib.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -248,7 +248,7 @@ const executiveMembers = [
   {
     name: "Mst. Tamanna Khatun",
     designation: "Assistant IT secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/tamanna.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -257,7 +257,7 @@ const executiveMembers = [
   {
     name: "Akash Chandra",
     designation: "Assistant workshop and reading circle secretary ",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/akash.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -266,7 +266,7 @@ const executiveMembers = [
   {
     name: "Ahona Talukder",
     designation: "Assistant Tressurer",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/ahona.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
@@ -275,8 +275,26 @@ const executiveMembers = [
   {
     name: "Tamim Iqbal",
     designation: "Assistant Publicity Secretary",
-    session: "2023-24",
+    session: "2024-25",
     photo: "/public/tamim.jpg",
+    email: "outreach@brudf.edu",
+    quote: "Expanding our community reach",
+    isTopExecutive: false,
+  },
+  {
+    name: "Shifanur Rahman",
+    designation: "Assistant Publicity secretary",
+    session: "2024-25",
+    photo: "/public/shifan.jpg",
+    email: "outreach@brudf.edu",
+    quote: "Expanding our community reach",
+    isTopExecutive: false,
+  },
+  {
+    name: "MD. Jonaid Hossain",
+    designation: "Assistant Publicity Secretary",
+    session: "2024-25",
+    photo: "/public/jonaid.jpg",
     email: "outreach@brudf.edu",
     quote: "Expanding our community reach",
     isTopExecutive: false,

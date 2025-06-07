@@ -793,7 +793,7 @@ const PhotoGallerySection = () => {
                       </span>
                     </div>
                     <h4 className="text-2xl font-bold mb-2">
-                      Community Excellence
+                      President (2024-25)
                     </h4>
                     <p className="text-sm opacity-90">
                       Leading by example in every debate

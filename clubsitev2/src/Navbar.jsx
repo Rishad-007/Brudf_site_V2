@@ -98,7 +98,7 @@ const Navbar = ({ onJoinClick }) => {
                   isScrolled ? "text-gray-600" : "text-gray-200"
                 }`}
               >
-                Debate Forum
+                যুক্তি সততা মুক্তি
               </p>
             </div>
           </div>
