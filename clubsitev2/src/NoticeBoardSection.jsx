@@ -3,35 +3,35 @@ import React, { useState } from "react";
 const notices = [
   {
     id: 1,
-    title: "Upcoming Inter-University Debate Championship 2025",
-    date: "2025-06-15",
+    title: "Upcoming Intra-Club Debate Championship 2025",
+    date: "2025-05-01",
     priority: "high",
     description:
-      "Registration is now open for the annual Inter-University Debate Championship. This prestigious event will bring together the best debaters from universities across the country.",
+      "Registration is now open for the annual Intra Club Debate Championship. This prestigious event will bring together the best debaters from universities across the country.",
     details:
-      "Event Date: July 20-22, 2025 | Venue: BRU Main Auditorium | Registration Deadline: June 30, 2025",
+      "Event Date: June 26-28, 2025 | Venue: BRUR Main Auditorium |Reg Fee: Per Team 150 BDT| Registration Deadline: June 15, 2025",
     type: "Event",
   },
   {
     id: 2,
-    title: "Monthly Debate Workshop Series",
-    date: "2025-06-12",
+    title: "Debate Workshop Series",
+    date: "2025-06-01",
     priority: "medium",
     description:
       "Join our monthly workshop series focusing on advanced debate techniques and public speaking skills.",
     details:
-      "Every second Saturday | Time: 2:00 PM - 5:00 PM | Venue: Conference Room A",
+      "Every Day Till BRUDF Intra 2.0  | Time: 09:00 PM - 10:00 PM | Venue: Discord Room",
     type: "Workshop",
   },
   {
     id: 3,
     title: "New Member Orientation Program",
-    date: "2025-06-08",
+    date: "2025-01-08",
     priority: "medium",
     description:
       "Welcome session for new BRUDF members. Learn about our history, objectives, and upcoming activities.",
     details:
-      "Date: June 25, 2025 | Time: 10:00 AM | Venue: Student Center Hall",
+      "Date: January 25, 2025 | Time: 10:00 AM | Venue: Student Center Hall",
     type: "General",
   },
   {
@@ -46,7 +46,7 @@ const notices = [
   },
   {
     id: 5,
-    title: "Guest Speaker Session - Art of Persuasion",
+    title: "Guest Speaker Session - Popularism",
     date: "2025-06-03",
     priority: "high",
     description:
@@ -57,11 +57,11 @@ const notices = [
   {
     id: 6,
     title: "BRUDF Annual General Meeting 2025",
-    date: "2025-06-08",
+    date: "2024-08-20",
     priority: "high",
     description:
       "Annual general meeting to discuss club activities, budget, and future plans. All members are required to attend.",
-    details: "Date: June 20, 2025 | Time: 4:00 PM | Venue: Conference Hall B",
+    details: "Date: June 25, 2024 | Time: 4:00 PM | Venue: Conference Hall B",
     type: "Meeting",
   },
   {

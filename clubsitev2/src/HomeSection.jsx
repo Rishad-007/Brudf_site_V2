@@ -55,7 +55,7 @@ const HomeSection = ({ onJoinClick }) => (
               , the Begum Rokeya University Debate Forum (BRUDF) has emerged as
               a vibrant space for intellectual exploration with{" "}
               <span className="font-semibold">41 members</span> including a
-              Chief Moderator and three Moderators. And We are the{" "}
+              Chief Moderator and four Moderators. And We are the{" "}
               <b>Only Central debate Club </b> of Begum Rokeya University,
               Rangpur.
             </p>
